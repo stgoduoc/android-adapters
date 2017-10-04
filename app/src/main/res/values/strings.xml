@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Adapters</string>
+    <string-array name="opciones">
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+        <item>Opción 3</item>
+        <item>Opción 4</item>
+        <item>Opción 6</item>
+        <item>Opción 7</item>
+        <item>Opción 8</item>
+        <item>Opción 9</item>
+        <item>Opción 10</item>
+    </string-array>
+</resources>
